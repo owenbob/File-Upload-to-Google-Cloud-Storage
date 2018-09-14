@@ -1,0 +1,2 @@
+export  GOOGLE_APPLICATION_CREDENTIALS="Path to you Google cloud Storage credentials."
+export BUCKET_NAME="Your  google cloud storage bucket name"
